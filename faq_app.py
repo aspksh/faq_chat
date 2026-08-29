@@ -6,7 +6,7 @@ import requests
 # FastAPI URL
 # ---------------------------------------
 
-FASTAPI_URL = "https://printing-print-trend-textile.trycloudflare.com/question"
+FASTAPI_URL = "https://entrance-minority-draft-players.trycloudflare.com/question"
 
 
 # ---------------------------------------
@@ -59,7 +59,9 @@ if st.button("Ask"):
 
         else:
 
-            st.write("Sorry we don't have answer to this question. Please contanct to our support team.")
+            st.error(
+                f"FastAPI Error: {response.status_code}"
+            )
 
     else:
 
