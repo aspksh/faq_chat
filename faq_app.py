@@ -59,9 +59,7 @@ if st.button("Ask"):
 
         else:
 
-            st.error(
-                f"FastAPI Error: {response.status_code}"
-            )
+            st.write(f"Sorry we don't have answer to this question. Please contanct to our support team.")
 
     else:
 
