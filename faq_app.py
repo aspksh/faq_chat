@@ -59,7 +59,7 @@ if st.button("Ask"):
 
         else:
 
-            st.write(f"Sorry we don't have answer to this question. Please contanct to our support team.")
+            st.write("Sorry we don't have answer to this question. Please contanct to our support team.")
 
     else:
 
