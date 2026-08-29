@@ -6,7 +6,7 @@ import requests
 # FastAPI URL
 # ---------------------------------------
 
-FASTAPI_URL = "https://bbs-world-expansys-section.trycloudflare.com/question"
+FASTAPI_URL = "https://pda-nights-jump-reached.trycloudflare.com/question"
 
 
 # ---------------------------------------
