@@ -6,7 +6,7 @@ import requests
 # FastAPI URL
 # ---------------------------------------
 
-FASTAPI_URL = "https://entrance-minority-draft-players.trycloudflare.com/question"
+FASTAPI_URL = "https://checkout-rankings-binary-believes.trycloudflare.com/"
 
 
 # ---------------------------------------
